@@ -32,7 +32,3 @@ Google Chrome is required (used to pass Cloudflare / Turnstile checks).
    - Resume partial downloads when possible.
    - Extract and download files to the `downloads/<game-name>/` folder.
    - Remove processed links from `input.txt`.
-
-## Disclaimer
-
-This tool is created for educational purposes and ethical use only. Any misuse of this tool for malicious purposes is not condoned. The developers of this tool are not responsible for any illegal or unethical activities carried out using this tool.
