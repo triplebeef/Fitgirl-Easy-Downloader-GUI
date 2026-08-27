@@ -1,3 +1,9 @@
+# Fitgirl-Easy-Downloader-GUI
+
+No prerequisites are required to be installed if you download the `.exe`
+
+If you run `main_GUI.py` directly, you must install the dependencies from `requirements.txt`
+
 # Fitgirl-Easy-Downloader
 
 This Tool Helps To Download Multiple Files Easily From fitgirl-repacks.site Through fuckingfast.co
