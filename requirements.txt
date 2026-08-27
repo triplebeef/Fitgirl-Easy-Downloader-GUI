@@ -1,7 +1,5 @@
 requests
-beautifulsoup4
-tqdm
-colorama
-pyperclip
-primp
 nodriver
+beautifulsoup4
+customtkinter
+pyinstaller
